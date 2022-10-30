@@ -1,1 +1,1 @@
-# tags-generator
+# TAGS GENERATOR - internal system
